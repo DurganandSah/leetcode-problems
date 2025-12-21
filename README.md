@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DurganandSah/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/DurganandSah/leetcode-problems/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/DurganandSah/leetcode-problems/tree/master/0728-self-dividing-numbers) |
+| [2235-add-two-integers](https://github.com/DurganandSah/leetcode-problems/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
