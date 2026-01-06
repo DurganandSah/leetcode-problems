@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DurganandSah/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/DurganandSah/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DurganandSah/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DurganandSah/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/DurganandSah/leetcode-problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
