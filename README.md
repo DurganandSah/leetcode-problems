@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DurganandSah/leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1051-height-checker](https://github.com/DurganandSah/leetcode-problems/tree/master/1051-height-checker) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DurganandSah/leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/DurganandSah/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DurganandSah/leetcode-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Sorting
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DurganandSah/leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DurganandSah/leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/DurganandSah/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DurganandSah/leetcode-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## String
