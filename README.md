@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DurganandSah/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/DurganandSah/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DurganandSah/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DurganandSah/leetcode-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DurganandSah/leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DurganandSah/leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 ## Tree
 |  |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/DurganandSah/leetcode-problems/tree/master/0283-move-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
