@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DurganandSah/leetcode-problems/tree/master/1051-height-checker) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DurganandSah/leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/DurganandSah/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DurganandSah/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/DurganandSah/leetcode-problems/tree/master/3453-separate-squares-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DurganandSah/leetcode-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Sorting
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DurganandSah/leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DurganandSah/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Matrix
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DurganandSah/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
