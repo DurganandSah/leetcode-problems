@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DurganandSah/leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/DurganandSah/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DurganandSah/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DurganandSah/leetcode-problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/DurganandSah/leetcode-problems/tree/master/3453-separate-squares-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DurganandSah/leetcode-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Sorting
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/DurganandSah/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [2235-add-two-integers](https://github.com/DurganandSah/leetcode-problems/tree/master/2235-add-two-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DurganandSah/leetcode-problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DurganandSah/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DurganandSah/leetcode-problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
