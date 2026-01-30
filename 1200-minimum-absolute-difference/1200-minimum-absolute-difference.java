@@ -11,11 +11,11 @@ class Solution {
         List<List<Integer>> mainal = new ArrayList<>();
 
         for(int i=0;i<arr.length-1;i++){
-            List<Integer> al = new ArrayList<>();
+            // List<Integer> al = new ArrayList<>();
             if(Math.abs(arr[i] - arr[i+1]) == min){
-                al.add(arr[i]);
-                al.add(arr[i+1]);
-                mainal.add(al);
+                // al.add(arr[i]);
+                // al.add(arr[i+1]);
+                mainal.add(Arrays.asList(arr[i],arr[i+1]));
             }
         }
         return mainal;
