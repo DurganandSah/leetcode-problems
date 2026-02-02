@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DurganandSah/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0172-factorial-trailing-zeroes](https://github.com/DurganandSah/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/DurganandSah/leetcode-problems/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/DurganandSah/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
