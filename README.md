@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DurganandSah/leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1108-defanging-an-ip-address](https://github.com/DurganandSah/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [3714-longest-balanced-substring-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DurganandSah/leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DurganandSah/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3714-longest-balanced-substring-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DurganandSah/leetcode-problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Prefix Sum
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/3714-longest-balanced-substring-ii) |
 <!---LeetCode Topics End-->
