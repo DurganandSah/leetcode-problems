@@ -66,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DurganandSah/leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1108-defanging-an-ip-address](https://github.com/DurganandSah/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DurganandSah/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DurganandSah/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3714-longest-balanced-substring-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/3714-longest-balanced-substring-ii) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DurganandSah/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
