@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/DurganandSah/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/DurganandSah/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DurganandSah/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DurganandSah/leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DurganandSah/leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/DurganandSah/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DurganandSah/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3714-longest-balanced-substring-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Matrix
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/DurganandSah/leetcode-problems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/DurganandSah/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [2751-robot-collisions](https://github.com/DurganandSah/leetcode-problems/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
