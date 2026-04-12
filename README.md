@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DurganandSah/leetcode-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DurganandSah/leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/DurganandSah/leetcode-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DurganandSah/leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/DurganandSah/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DurganandSah/leetcode-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DurganandSah/leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1108-defanging-an-ip-address](https://github.com/DurganandSah/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/DurganandSah/leetcode-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DurganandSah/leetcode-problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/DurganandSah/leetcode-problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
