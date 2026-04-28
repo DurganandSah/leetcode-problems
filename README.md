@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/DurganandSah/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DurganandSah/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DurganandSah/leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/DurganandSah/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2751-robot-collisions](https://github.com/DurganandSah/leetcode-problems/tree/master/2751-robot-collisions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DurganandSah/leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/DurganandSah/leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/DurganandSah/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/DurganandSah/leetcode-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2751-robot-collisions](https://github.com/DurganandSah/leetcode-problems/tree/master/2751-robot-collisions) |
 ## Counting Sort
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DurganandSah/leetcode-problems/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/DurganandSah/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2235-add-two-integers](https://github.com/DurganandSah/leetcode-problems/tree/master/2235-add-two-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DurganandSah/leetcode-problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Bit Manipulation
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DurganandSah/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/0840-magic-squares-in-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurganandSah/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Tree
 |  |
 | ------- |
